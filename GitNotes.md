@@ -24,7 +24,6 @@ To change the branch that you pushing into, instead ```master``` branch you need
 Type: ```git remote -v```
 
 ### __Change remote name__
-
 Type: ```git remote rename <old-name> <new-name>```  
 
 ---
