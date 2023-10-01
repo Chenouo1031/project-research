@@ -1,7 +1,9 @@
-#include <iostream>
+#include "helper.h"
 
 int main(void) {
 	std::cout << "Hello world" << std::endl;
-	// comment
+	int x = 5, y=5;
+	
+	add(x, y);
 	return 0;
 }
